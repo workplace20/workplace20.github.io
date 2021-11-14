@@ -7,8 +7,8 @@ We're a small team of software engineers who love to use technologies to help di
 
 ## Our tech stack
 
-* .NET, Elixir, JavaScript
-* ASP.NET Core, Phoenix
+* .NET, Ruby on Rails, Elixir, JavaScript
+* ASP.NET Core, Phoenix, React, Vue, Ember
 * Postgres, MySQL, MariaDB, MongoDB, Redis
 * Spark, Airflow, Pinot
 
