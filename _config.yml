@@ -16,7 +16,7 @@
 title: Workplace20
 email: hello@workplace20.com
 description: >- # this means to ignore newlines until "baseurl:"
- We're a team up with businesses to craft their digital products
+ Crafting digital products. Thoughts, techniques
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://workplace20.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
