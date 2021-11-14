@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Workplace20 - We help business to craft digital products
+title: Workplace20 - We help business to craft their digital products
 email: hello@workplace20.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We're a team of engingeer who love to help business to craft there digital products
+ We're a team up with businesses to craft their digital products
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://workplace20.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: workplace20
-github_username:  workplace20
 
 # Build settings
 markdown: kramdown
